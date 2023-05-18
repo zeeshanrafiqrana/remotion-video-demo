@@ -10,7 +10,7 @@ import {Scene} from './Scene';
 // The device frame automatically adjusts to the video aspect ratio.
 // Change the variable below to try out tablet mode:
 type Device = 'phone' | 'tablet';
-const deviceType: Device = 'phone';
+const deviceType: Device = 'tablet';
 
 // Remotion Docs:
 // https://remotion.dev/docs
